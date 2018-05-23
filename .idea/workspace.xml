@@ -17,8 +17,8 @@
       <file leaf-file-name="inicio.controller.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NestJSProjectRutas/src/inicio.controller.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+            <state relative-caret-position="261">
+              <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -105,7 +105,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Workspaces/GitHub/AW2018ANestJS" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Workspaces/GitHub/AppWeb2018A-NestJSv5" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="C:\Users\dga_g\WebstormProjects\RutasNestJS\NestJSProjectRutas\node_modules\prettier" />
@@ -138,24 +138,26 @@
       <updated>1526434652070</updated>
       <workItem from="1526434653345" duration="10159000" />
       <workItem from="1526484793856" duration="1125000" />
+      <workItem from="1526906016636" duration="1408000" />
+      <workItem from="1526911772089" duration="1012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11284000" />
+    <option name="totallyTimeSpent" value="13704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.33455345" side_tool="true" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.33601758" side_tool="true" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.6654466" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.66398245" visible="true" weight="0.32899022" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -174,6 +176,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NestJSProjectRutas/src/inicio.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NestJSProjectRutas/src/inicio.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NestJSProjectRutas/src/inicio.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -218,8 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NestJSProjectRutas/src/inicio.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+        <state relative-caret-position="261">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
         </state>
       </provider>
     </entry>
